@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClockNTP_LeMinhMan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="ntpHosts">0.ir.pool.ntp.org,1.ir.pool.ntp.org,2.ir.pool.ntp.org,3.ir.pool.ntp.org</string>
+	<string name="ntpTmeOut">5000</string>
+	
+</resources>
